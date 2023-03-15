@@ -1,0 +1,9 @@
+# Python
+*.ipynb_checkpoints
+*.npy
+*.pyc
+
+# vim
+*.swp
+*.swo
+
